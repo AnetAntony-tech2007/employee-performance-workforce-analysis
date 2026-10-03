@@ -1,0 +1,101 @@
+Employee_ID,Name,Department,Education_Level,Years_of_Experience,Salary_USD,Performance_Rating,Joining_Date,Work_Mode,Status
+EMP00001,David Martin,Sales,Bachelor's,16,78031,Needs Improvement,2021-11-18,Hybrid,Active
+EMP00002,Joseph Hernandez,Data Science,Master's,14,129946,Meets Expectations,2021-04-09,Hybrid,Active
+EMP00003,Jessica Miller,Finance,Bachelor's,7,77973,Outstanding,2019-02-22,Remote,Active
+EMP00004,Chris Hernandez,Finance,Bachelor's,19,97134,Outstanding,2025-06-29,Hybrid,Left
+EMP00005,Robert Brown,Engineering,Bachelor's,17,110475,Meets Expectations,2024-01-06,On-site,Active
+EMP00006,David Wilson,Operations,Bachelor's,11,76059,Meets Expectations,2016-12-16,On-site,Active
+EMP00007,Alex Martinez,Sales,Bachelor's,15,79802,Meets Expectations,2023-09-02,Hybrid,Active
+EMP00008,Nicole Gonzalez,Engineering,Bachelor's,10,102280,Meets Expectations,2020-09-17,Hybrid,Active
+EMP00009,Sarah Smith,Data Science,Master's,14,129324,Exceeds Expectations,2015-05-30,Hybrid,Active
+EMP00010,Stephanie Lopez,Human Resources,Bachelor's,15,77109,Meets Expectations,2020-03-23,Hybrid,Active
+EMP00011,Amanda Moore,Marketing,Master's,18,103328,Outstanding,2020-03-24,On-site,Active
+EMP00012,John Martin,Finance,Bachelor's,7,79401,Meets Expectations,2021-12-05,Remote,Active
+EMP00013,Alex Taylor,Engineering,Bachelor's,8,101569,Meets Expectations,2023-01-14,Hybrid,Active
+EMP00014,Robert Rodriguez,Human Resources,High School,14,64227,Meets Expectations,2017-06-15,On-site,Active
+EMP00015,Alex Rodriguez,Operations,High School,16,68174,Needs Improvement,2017-06-29,Remote,Active
+EMP00016,John Hernandez,Engineering,Bachelor's,4,93740,Meets Expectations,2024-11-23,Hybrid,Active
+EMP00017,Megan Williams,Engineering,Master's,8,118464,Meets Expectations,2022-07-28,Hybrid,Active
+EMP00018,David Jones,Engineering,Master's,10,121712,Meets Expectations,2017-09-09,On-site,Active
+EMP00019,Alex Jones,Engineering,Master's,14,128509,Meets Expectations,2017-06-03,Hybrid,Active
+EMP00020,Jessica Martin,Sales,Bachelor's,7,66572,Meets Expectations,2015-06-03,On-site,Left
+EMP00021,Ashley Miller,Data Science,PhD,4,126839,Meets Expectations,2024-04-20,Hybrid,Active
+EMP00022,Emily Davis,Sales,Bachelor's,2,55138,Meets Expectations,2021-08-25,On-site,Active
+EMP00023,Michael Martin,Operations,Bachelor's,13,76770,Outstanding,2018-02-14,Hybrid,Active
+EMP00024,Chris Martinez,Sales,Bachelor's,15,81504,Meets Expectations,2016-01-08,Hybrid,Active
+EMP00025,David Garcia,Marketing,High School,10,61726,Meets Expectations,2015-11-19,Hybrid,Active
+EMP00026,Emily Smith,Marketing,Bachelor's,11,76839,Meets Expectations,2024-03-31,Hybrid,Active
+EMP00027,Alex Taylor,Engineering,Master's,19,139989,Needs Improvement,2024-04-18,Remote,Left
+EMP00028,Robert Martinez,Marketing,Bachelor's,11,81190,Outstanding,2021-02-18,Hybrid,Active
+EMP00029,John Miller,Marketing,High School,2,51465,Meets Expectations,2015-11-28,Remote,Active
+EMP00030,Emily Williams,Sales,Master's,18,97036,Outstanding,2023-06-07,On-site,Active
+EMP00031,Megan Rodriguez,Engineering,Bachelor's,6,99778,Meets Expectations,2022-09-06,Remote,Active
+EMP00032,Alex Miller,Marketing,Bachelor's,1,55648,Exceeds Expectations,2017-06-25,Hybrid,Active
+EMP00033,Robert Jones,Finance,Bachelor's,12,85292,Exceeds Expectations,2021-03-24,On-site,Active
+EMP00034,John Rodriguez,Sales,Bachelor's,19,87889,Meets Expectations,2025-05-18,Hybrid,Active
+EMP00035,Joseph Jones,Human Resources,Bachelor's,13,79917,Meets Expectations,2017-02-23,Hybrid,Active
+EMP00036,Jane Miller,Human Resources,Bachelor's,17,87293,Meets Expectations,2021-01-01,On-site,Active
+EMP00037,Stephanie Jones,Engineering,Master's,19,136657,Meets Expectations,2022-10-18,Hybrid,Active
+EMP00038,William Taylor,Engineering,Bachelor's,11,102434,Meets Expectations,2021-12-16,Hybrid,Active
+EMP00039,Alex Smith,Engineering,Bachelor's,10,105151,Meets Expectations,2020-04-12,Hybrid,Active
+EMP00040,Joseph Rodriguez,Marketing,Bachelor's,2,63045,Needs Improvement,2025-09-24,Remote,Active
+EMP00041,Jane Hernandez,Sales,High School,14,70588,Meets Expectations,2021-01-13,Hybrid,Active
+EMP00042,Ashley Taylor,Data Science,PhD,14,151559,Needs Improvement,2023-11-19,Hybrid,Active
+EMP00043,John Gonzalez,Sales,Bachelor's,3,56477,Exceeds Expectations,2019-10-14,Remote,Active
+EMP00044,Stephanie Moore,Data Science,Master's,2,100146,Meets Expectations,2020-06-20,Hybrid,Active
+EMP00045,Jessica Jones,Data Science,Bachelor's,19,130836,Meets Expectations,2020-11-13,Hybrid,Active
+EMP00046,Lisa Moore,Operations,Bachelor's,5,62228,Meets Expectations,2024-09-02,On-site,Active
+EMP00047,John Martinez,Data Science,Bachelor's,1,90204,Exceeds Expectations,2019-09-11,On-site,Active
+EMP00048,Michael Martin,Sales,High School,10,64227,Meets Expectations,2022-09-02,Hybrid,Active
+EMP00049,David Jones,Engineering,Master's,20,135967,Meets Expectations,2015-05-18,Hybrid,Active
+EMP00050,Stephanie Taylor,Finance,Master's,19,109311,Meets Expectations,2022-12-25,On-site,Active
+EMP00051,David Garcia,Finance,Bachelor's,17,100582,Outstanding,2025-05-09,On-site,Active
+EMP00052,John Smith,Engineering,Bachelor's,10,106511,Meets Expectations,2019-08-25,On-site,Active
+EMP00053,David Hernandez,Finance,Bachelor's,10,81657,Meets Expectations,2020-07-28,Hybrid,Active
+EMP00054,Alex Brown,Human Resources,Bachelor's,5,56543,Meets Expectations,2022-04-20,Hybrid,Active
+EMP00055,Jane Garcia,Sales,High School,14,64221,Meets Expectations,2016-09-03,Hybrid,Active
+EMP00056,Sarah Brown,Finance,Bachelor's,1,72004,Meets Expectations,2020-04-26,Hybrid,Active
+EMP00057,Megan Brown,Human Resources,Bachelor's,7,62447,Meets Expectations,2022-07-06,Hybrid,Active
+EMP00058,Stephanie Martin,Engineering,High School,4,77823,Meets Expectations,2021-01-22,Hybrid,Left
+EMP00059,Michael Moore,Finance,Master's,19,106573,Exceeds Expectations,2020-11-25,Hybrid,Active
+EMP00060,James Jackson,Engineering,Bachelor's,8,103197,Meets Expectations,2022-08-01,On-site,Active
+EMP00061,Stephanie Lopez,Human Resources,Master's,4,66030,Meets Expectations,2018-05-15,Hybrid,Active
+EMP00062,Jessica Taylor,Marketing,High School,10,65416,Meets Expectations,2023-01-24,On-site,Active
+EMP00063,William Martin,Sales,Bachelor's,10,72421,Exceeds Expectations,2019-12-26,Hybrid,Active
+EMP00064,Chris Jones,Engineering,Master's,5,108573,Meets Expectations,2020-04-02,Hybrid,Active
+EMP00065,James Taylor,Human Resources,Bachelor's,20,83042,Meets Expectations,2025-06-25,Hybrid,Left
+EMP00066,William Smith,Data Science,Bachelor's,13,116644,Meets Expectations,2022-06-03,Hybrid,Active
+EMP00067,Amanda Moore,Data Science,PhD,5,127453,Needs Improvement,2018-09-07,On-site,Active
+EMP00068,James Moore,Sales,Bachelor's,6,56994,Outstanding,2025-08-09,On-site,Active
+EMP00069,John Johnson,Finance,High School,3,56515,Meets Expectations,2016-12-36,Hybrid,Active
+EMP00070,Stephanie Smith,Data Science,Bachelor's,14,120286,Meets Expectations,2016-02-12,Hybrid,Active
+EMP00071,James Hernandez,Operations,High School,20,77631,Needs Improvement,2025-10-09,On-site,Active
+EMP00072,William Lopez,Engineering,High School,5,78571,Meets Expectations,2025-11-20,Hybrid,Active
+EMP00073,John Smith,Sales,Bachelor's,3,58455,Meets Expectations,2022-01-09,On-site,Active
+EMP00074,John Smith,Operations,Bachelor's,18,87396,Meets Expectations,2025-03-31,Remote,Active
+EMP00075,Stephanie Martin,Engineering,High School,15,103138,Needs Improvement,2017-09-03,Hybrid,Active
+EMP00076,Megan Rodriguez,Finance,Master's,13,99195,Meets Expectations,2015-10-21,Remote,Active
+EMP00077,James Brown,Engineering,Bachelor's,6,104868,Exceeds Expectations,2015-11-21,Hybrid,Active
+EMP00078,Jessica Johnson,Engineering,High School,2,71360,Meets Expectations,2017-02-19,On-site,Left
+EMP00079,Alex Martinez,Sales,Bachelor's,2,54452,Meets Expectations,2015-08-31,Hybrid,Active
+EMP00080,Stephanie Johnson,Human Resources,Bachelor's,12,71101,Meets Expectations,2018-09-02,Hybrid,Active
+EMP00081,Alex Johnson,Marketing,Bachelor's,16,84672,Meets Expectations,2022-01-21,Hybrid,Active
+EMP00082,David Wilson,Operations,Bachelor's,7,68875,Meets Expectations,2017-02-19,On-site,Active
+EMP00083,Nicole Garcia,Engineering,PhD,2,118471,Meets Expectations,2024-03-12,On-site,Active
+EMP00084,John Miller,Marketing,Bachelor's,8,75657,Meets Expectations,2025-12-16,Hybrid,Active
+EMP00085,David Moore,Engineering,High School,8,88133,Meets Expectations,2016-09-21,Hybrid,Active
+EMP00086,Sarah Martin,Sales,Bachelor's,12,74659,Meets Expectations,2024-10-25,Hybrid,Active
+EMP00087,Chris Smith,Marketing,Bachelor's,2,63131,Exceeds Expectations,2021-04-03,Hybrid,Active
+EMP00088,Michael Miller,Data Science,PhD,3,121703,Outstanding,2021-12-17,Hybrid,Active
+EMP00089,Stephanie Rodriguez,Sales,Master's,20,95190,Outstanding,2019-10-18,Remote,Active
+EMP00090,Jessica Williams,Data Science,Bachelor's,4,93108,Meets Expectations,2025-06-21,Hybrid,Active
+EMP00091,Robert Williams,Engineering,Bachelor's,3,91255,Exceeds Expectations,2020-03-08,Hybrid,Active
+EMP00092,Nicole Hernandez,Data Science,Bachelor's,2,91255,Meets Expectations,2023-01-13,Hybrid,Active
+EMP00093,Lisa Davis,Human Resources,Bachelor's,12,70415,Needs Improvement,2019-03-24,On-site,Active
+EMP00094,James Lopez,Engineering,PhD,14,136611,Meets Expectations,2019-09-24,On-site,Active
+EMP00095,William Rodriguez,Engineering,Bachelor's,17,117621,Needs Improvement,2022-10-16,Hybrid,Left
+EMP00096,Nicole Davis,Human Resources,Bachelor's,11,64319,Meets Expectations,2017-09-13,Hybrid,Active
+EMP00097,Jessica Jackson,Sales,Bachelor's,16,77823,Meets Expectations,2016-05-18,Hybrid,Active
+EMP00098,Emily Jones,Data Science,Master's,19,139989,Meets Expectations,2020-09-17,Hybrid,Active
+EMP00099,Robert Martin,Finance,Master's,20,111244,Meets Expectations,2024-11-21,Hybrid,Active
+EMP00100,Alex Taylor,Operations,Bachelor's,16,84652,Meets Expectations,2020-01-12,Hybrid,Active
